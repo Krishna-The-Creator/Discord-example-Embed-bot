@@ -58,7 +58,7 @@ Please note that when installing voice support on Linux, you must install the fo
 
 
 Links
-------
+~~~~~~~~~~~~~~~~~~
 
 - `Documentation <https://discordpy.readthedocs.io/en/latest/index.html>`_
 - `Official Discord Server <https://discord.gg/r3sSKJJ>`_
