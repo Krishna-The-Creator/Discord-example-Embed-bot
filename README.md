@@ -1,13 +1,6 @@
 discord.py
 ==========
 
-.. image:: https://img.shields.io/pypi/v/discord.py.svg
-   :target: https://pypi.python.org/pypi/discord.py
-   :alt: PyPI version info
-.. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
-   :target: https://pypi.python.org/pypi/discord.py
-   :alt: PyPI supported Python versions
-
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
 Key Features
